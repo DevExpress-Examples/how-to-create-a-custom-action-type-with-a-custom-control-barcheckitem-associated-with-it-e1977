@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Solution5.Module", "Solution5.Module\Solution5.Module.vbproj", "{D6AFDEC4-CB3D-4601-BF36-D99B78CFF08D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Solution5.Module.Win", "Solution5.Module.Win\Solution5.Module.Win.vbproj", "{F24B775A-5663-428E-A002-B6D17C678134}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Solution5.Win", "Solution5.Win\Solution5.Win.vbproj", "{31F80D31-C3B7-4AA3-937F-F9431852725F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6AFDEC4-CB3D-4601-BF36-D99B78CFF08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AFDEC4-CB3D-4601-BF36-D99B78CFF08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AFDEC4-CB3D-4601-BF36-D99B78CFF08D}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{D6AFDEC4-CB3D-4601-BF36-D99B78CFF08D}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{D6AFDEC4-CB3D-4601-BF36-D99B78CFF08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AFDEC4-CB3D-4601-BF36-D99B78CFF08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24B775A-5663-428E-A002-B6D17C678134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24B775A-5663-428E-A002-B6D17C678134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24B775A-5663-428E-A002-B6D17C678134}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{F24B775A-5663-428E-A002-B6D17C678134}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{F24B775A-5663-428E-A002-B6D17C678134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24B775A-5663-428E-A002-B6D17C678134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F80D31-C3B7-4AA3-937F-F9431852725F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F80D31-C3B7-4AA3-937F-F9431852725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F80D31-C3B7-4AA3-937F-F9431852725F}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{31F80D31-C3B7-4AA3-937F-F9431852725F}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{31F80D31-C3B7-4AA3-937F-F9431852725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F80D31-C3B7-4AA3-937F-F9431852725F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
