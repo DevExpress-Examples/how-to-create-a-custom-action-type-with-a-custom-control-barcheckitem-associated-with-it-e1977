@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CheckableSimpleAction.cs](./CS/WinSample.Module.Win/CheckableSimpleAction.cs) (VB: [CheckableSimpleAction.vb](./VB/WinSample.Module.Win/CheckableSimpleAction.vb))
+* **[CheckActionItem.cs](./CS/WinSample.Module.Win/CheckActionItem.cs) (VB: [CheckActionItem.vb](./VB/WinSample.Module.Win/CheckActionItem.vb))**
+* [SupportCheckItemsController.cs](./CS/WinSample.Module.Win/SupportCheckItemsController.cs) (VB: [SupportCheckItemsController.vb](./VB/WinSample.Module.Win/SupportCheckItemsController.vb))
+<!-- default file list end -->
 # How to create a custom action type with a custom control (BarCheckItem), associated with it
 
 
