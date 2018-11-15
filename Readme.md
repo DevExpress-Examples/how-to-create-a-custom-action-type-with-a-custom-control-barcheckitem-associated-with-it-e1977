@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CheckableSimpleActionItem.cs](./CS/Solution5.Module.Win/CheckableSimpleActionItem.cs) (VB: [CheckableSimpleActionItem.vb](./VB/Solution5.Module.Win/CheckableSimpleActionItem.vb))**
+* [MyBarActionItemsFactory.cs](./CS/Solution5.Module.Win/MyBarActionItemsFactory.cs) (VB: [MyBarActionItemsFactory.vb](./VB/Solution5.Module.Win/MyBarActionItemsFactory.vb))
+* [MyBarActionItemsFactoryProvider.cs](./CS/Solution5.Module.Win/MyBarActionItemsFactoryProvider.cs) (VB: [MyBarActionItemsFactoryProvider.vb](./VB/Solution5.Module.Win/MyBarActionItemsFactoryProvider.vb))
+* [WindowController1.cs](./CS/Solution5.Module.Win/WindowController1.cs) (VB: [WindowController1.vb](./VB/Solution5.Module.Win/WindowController1.vb))
+* [WinModule.cs](./CS/Solution5.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/Solution5.Module.Win/WinModule.vb))
+* [CheckableSimpleAction.cs](./CS/Solution5.Module/CheckableSimpleAction.cs) (VB: [CheckableSimpleAction.vb](./VB/Solution5.Module/CheckableSimpleAction.vb))
+<!-- default file list end -->
 # How to create a custom action type with a custom control (BarCheckItem), associated with it
 
 
